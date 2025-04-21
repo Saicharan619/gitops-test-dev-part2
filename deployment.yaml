@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1
-          image: saicharan12121/dev-test1:5
+          image: saicharan12121/dev-test3:6
           ports:
             - containerPort: 80  # Fixed key name
 
